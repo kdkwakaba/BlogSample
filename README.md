@@ -1,2 +1,14 @@
 # BlogSample
-This repository is a code sample for the Young Leaves.
+
+このリポジトリはブログ「Young Leaves」で使用されるサンプルコードです。
+
+- https://www.kdkwakaba.com/
+
+当リポジトリ内では、コードの利用方法などの記載は行いません。
+サンプルコードの利用方法や環境構築につきましては当ブログを参照してください。
+
+各ディレクトリの内容は以下の通りとなります。
+
+## Azure
+
+Azure に関するサンプルコードを格納します。
