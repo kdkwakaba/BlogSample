@@ -11,14 +11,14 @@
     },
     "vnetAddressPrefix": {
       "type": "string",
-      "defaultValue": "10.0.0.0/16",
+      "defaultValue": "192.168.0.0/16",
       "metadata": {
         "description": "Address prefix"
       }
     },
     "subnetPrefix": {
       "type": "string",
-      "defaultValue": "10.0.0.0/24",
+      "defaultValue": "192.168.0.0/24",
       "metadata": {
         "description": "Subnet Prefix"
       }
