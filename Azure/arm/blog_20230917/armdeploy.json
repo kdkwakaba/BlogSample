@@ -4,28 +4,28 @@
   "parameters": {
     "vnetName": {
       "type": "string",
-      "defaultValue": "armdeploy-vnet",
+      "defaultValue": "test-vnet",
       "metadata": {
         "description": "Vnet name"
       }
     },
     "vnetAddressPrefix": {
       "type": "string",
-      "defaultValue": "192.168.0.0/16",
+      "defaultValue": "10.0.0.0/16",
       "metadata": {
         "description": "Address prefix"
       }
     },
     "subnetPrefix": {
       "type": "string",
-      "defaultValue": "192.168.0.0/24",
+      "defaultValue": "10.0.0.0.0/24",
       "metadata": {
         "description": "Subnet Prefix"
       }
     },
     "subnetName": {
       "type": "string",
-      "defaultValue": "armdeploy-snet",
+      "defaultValue": "test-snet",
       "metadata": {
         "description": "Subnet Name"
       }
